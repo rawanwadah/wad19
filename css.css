@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:aliceblue;
+    color:black;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    /*الكلام يكون في الوسط مو بطرف*/
+    max-width: 1000px;
+    margin: auto;
+}
+
+section h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+a {
+    /*هنا وخرت السطر الي يجي تلقائي تحت الروابط ولونه اغمق ياسعم من الباقي ببهض درجات*/
+    text-decoration: none;
+    color: #007bff;
+}
